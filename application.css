@@ -433,6 +433,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 .page_banner h3 {
     margin: 0;
     font-size: 28px;
+    line-height:100px;
     text-transform: uppercase;    
 }
 
