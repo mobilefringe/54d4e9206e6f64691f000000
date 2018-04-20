@@ -432,6 +432,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 .page_banner h1 {
     margin: 0;
     font-size: 28px;
+    line-height: 100px;
     text-transform: uppercase;    
 }
 #loading_screen {
