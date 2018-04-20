@@ -427,9 +427,9 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
     text-transform:uppercase;
     box-shadow: none !important;
     border-top:2px solid darkgray;
-      border-bottom:2px solid darkgray;
+    border-bottom:2px solid darkgray;
 }
-.page_banner h3 {
+.page_banner h1 {
     margin: 0;
     font-size: 28px;
     text-transform: uppercase;    
