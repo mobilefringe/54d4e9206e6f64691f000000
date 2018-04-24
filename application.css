@@ -280,11 +280,11 @@ th {
 }
 
 .property_logo{
-    position:absolute;
-    right:50px;
+    margin-top: 8px;
+    width: 80px;
+    position: absolute;
     top:0;
-    height:40px;
-    margin-top:8px;
+    right: 50px;
 }
 
 .search_input{
