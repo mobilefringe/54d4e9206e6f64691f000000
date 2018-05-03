@@ -430,7 +430,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
     border-bottom:2px solid darkgray;
 }
 
-.page_banner h3 {
+.page_banner h2 {
     margin: 0;
     font-size: 28px;
     line-height:100px;
