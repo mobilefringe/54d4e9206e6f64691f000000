@@ -54,11 +54,11 @@ template {
 a {
   background: transparent;
 }
-a:active,
-a:hover {
-  outline: 0;
-  color:#e2222f;
-}
+/*a:active,*/
+/*a:hover {*/
+/*  outline: 0;*/
+/*  color:#e2222f;*/
+/*}*/
 abbr[title] {
   border-bottom: 1px dotted;
 }
@@ -3866,10 +3866,10 @@ input[type="button"].btn-block {
   border-bottom-left-radius: 0;
   border-top-left-radius: 0;
 }
-.btn-group .dropdown-toggle:active,
-.btn-group.open .dropdown-toggle {
-  outline: 0;
-}
+/*.btn-group .dropdown-toggle:active,*/
+/*.btn-group.open .dropdown-toggle {*/
+/*  outline: 0;*/
+/*}*/
 .btn-group > .btn + .dropdown-toggle {
   padding-left: 8px;
   padding-right: 8px;
@@ -5765,7 +5765,7 @@ button.close {
   left: 0;
   z-index: 1050;
   -webkit-overflow-scrolling: touch;
-  outline: 0;
+  /*outline: 0;*/
 }
 .modal.fade .modal-dialog {
   -webkit-transform: translate(0, -25%);
