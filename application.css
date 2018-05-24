@@ -327,7 +327,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
     width: 1px; 
     height: 1px; 
     overflow: hidden;
-    color: red;
+    color: #FFF;
 } 
 .show_mobile{
     display:none;        
