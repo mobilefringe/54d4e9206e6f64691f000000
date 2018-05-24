@@ -320,14 +320,14 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
     border:none;
     height:480px;
 }
-.accessible
-{ 
-    position:absolute; 
-    left:-10000px; 
-    top:auto; 
-    width:1px; 
-    height:1px; 
-    overflow:hidden;
+.accessible { 
+    position: absolute; 
+    left: -10000px; 
+    top: auto; 
+    width: 1px; 
+    height: 1px; 
+    overflow: hidden;
+    color: #000;
 } 
 .show_mobile{
     display:none;        
