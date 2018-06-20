@@ -8877,3 +8877,12 @@ blockquote p {
         height:40px;
     }
 }
+
+@media(max-width:468px) {
+    .page_banner h2 {
+        margin: 0;
+        font-size: 28px;
+        line-height:100px;
+        text-transform: uppercase;    
+    }
+}
