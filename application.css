@@ -8878,6 +8878,9 @@ blockquote p {
     }
 }
 @media(max-width:768px){
+    .page_banner {
+        position: relative;
+    }
     .page_banner h2 {
         line-height: normal;
         position: absolute;
