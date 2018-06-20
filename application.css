@@ -8877,7 +8877,11 @@ blockquote p {
         height:40px;
     }
 }
-
+@media(max-width:768px){
+    {
+            line-height: normal;
+    }
+}
 @media(max-width:468px) {
     .page_banner h2 {
         font-size: 18px;
